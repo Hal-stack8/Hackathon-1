@@ -30,6 +30,7 @@ A direct and unapologetic summary of who I am, what I believe, and how I see the
 
 ### 🔹 Educational Background  
 A clear account of my academic path and how it empowers my multidisciplinary approach.
+You can find out more about my educational background[In my CV](tmz.html)
 
 ### 🔹 Contact Section  
 If you’re ready for substance over surface — I’m reachable.
